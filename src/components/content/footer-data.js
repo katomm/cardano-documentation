@@ -15,7 +15,6 @@ _Past performance is not indicative of future results. Any investment in blockch
         { label: 'Cardano.org', href: 'https://www.cardano.org/' },
         { label: 'Why Cardano', href: 'https://why.cardano.org/' },
         { label: 'Daedalus', href: 'https://daedaluswallet.io/' },
-        { label: 'Cardano Testnets', href: 'https://testnet.iohkdev.io/' },
       ],
     },
     communityLinks: {
@@ -40,7 +39,24 @@ _Past performance is not indicative of future results. Any investment in blockch
         },
         {
           label: 'Cardano Foundation Twitter',
-          href: 'https://twitter.com/cardanostiftung',
+          href: 'https://twitter.com/Cardano_CF',
+        },
+        {
+          label: 'IOG Academy',
+          href: 'https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw',
+        },
+      ],
+    },
+    legalLinks: {
+      title: 'Legal',
+      links: [
+        {
+          label: 'IOHK Privacy Policy',
+          href: 'https://static.iohk.io/terms/iog-privacy-policy.pdf',
+        },
+        {
+          label: 'IOHK Terms & Conditions',
+          href: 'https://static.iohk.io/terms/iohktermsandconditions.pdf',
         },
       ],
     },
